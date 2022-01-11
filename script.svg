@@ -5,5 +5,5 @@
     <script type="application/ecmascript"> <![CDATA[
       window.location.href="//www.mcbbs.net/";
     ]]> </script>
-    <text x="2.5%" y="5%" style="font-family:sans-serif;font-size=24">请右键-在新标签页中打开此图片</text>
+    <text x="2.5%" y="10%" style="font-family:sans-serif;font-size=24">请右键-在新标签页中打开此图片</text>
   </svg>
